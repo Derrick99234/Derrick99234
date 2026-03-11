@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ola</h1>
-<h3 align="center">Full-Stack Software Engineer • Backend Systems • Automation • AI Integration</h3>
+<h1>Hi 👋, I'm Ola</h1>
+<h3>Full-Stack Software Engineer • Backend Systems • Automation • AI Integration</h3>
 
-<p align="center">
+<p>
 I build scalable web applications, backend systems, and intelligent automation tools that solve real-world problems.
 </p>
 
